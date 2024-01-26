@@ -1,17 +1,22 @@
 project:
   type: website
 
+theme:
+  dark: darkly
+  light: flatly
+
 website:
   title: "likan.org"
   navbar:
+    background: "light"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - file: about-en.md
+        text: About
+      - file: about-zh.md
+        text: 关于
 
 format:
   html:
-    theme: cosmo
     css: styles.css
     toc: true
 
