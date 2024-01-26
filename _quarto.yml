@@ -14,5 +14,9 @@ website:
         text: About
       - file: cv-en.md
         text: CV
+      - url: http://sapere-aude.group
+        text: Team
       - file: about-zh.md
         text: 关于
+      - file: cv-zh.md
+        text: 简历
