@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://likanzhan.github.io/likan.org/index.html</loc>
-    <lastmod>2024-01-26T08:20:04.642Z</lastmod>
-  </url>
-  <url>
-    <loc>https://likanzhan.github.io/likan.org/about-zh.html</loc>
-    <lastmod>2024-01-26T08:18:58.405Z</lastmod>
+    <loc>https://likanzhan.github.io/likan.org/cv-zh.html</loc>
+    <lastmod>2024-01-26T23:43:37.715Z</lastmod>
   </url>
   <url>
     <loc>https://likanzhan.github.io/likan.org/about-en.html</loc>
-    <lastmod>2024-01-26T08:34:16.118Z</lastmod>
+    <lastmod>2024-01-26T23:43:37.715Z</lastmod>
+  </url>
+  <url>
+    <loc>https://likanzhan.github.io/likan.org/index.html</loc>
+    <lastmod>2024-01-26T23:43:37.715Z</lastmod>
+  </url>
+  <url>
+    <loc>https://likanzhan.github.io/likan.org/cv-en.html</loc>
+    <lastmod>2024-01-26T23:43:37.715Z</lastmod>
+  </url>
+  <url>
+    <loc>https://likanzhan.github.io/likan.org/about-zh.html</loc>
+    <lastmod>2024-01-26T23:43:37.715Z</lastmod>
   </url>
 </urlset>
