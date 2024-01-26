@@ -11,7 +11,7 @@ format:
     linestretch: 1
     include-in-header:
     - text: |
-        \usepackage{/Users/likanzhan/Documents/Meta/Technique/LateX/Quarto_CV_Preamble}
+        \usepackage{CV-LaTeX-Preamble}
 ---
 
 ## Zhan, Likan

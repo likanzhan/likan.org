@@ -1,0 +1,49 @@
+\usepackage[margin = 2.5cm, paper = a4paper]{geometry}  %% Change the margins
+
+\usepackage{moresize}  %% more font sizes, ssmall etc
+\usepackage[fontsize=13pt]{scrextend}
+
+%%%%%% 1. Change font %%%%%%
+\setmainfont{FF Nexus Serif} %% FF Nexus Serif, FF Nexus Sans, Adobe Caslon Pro
+% \usepackage[fontset=none]{ctex}
+\usepackage{xeCJK}
+\setCJKmainfont{Source Han Serif SC} %% Kaiti SC; Source Han Serif SC; Source Han Sans SC; simhei.ttf; simfang.ttf
+
+%%%%%% 2. Reduce after enumerate and itemized environment %%%%%%
+\let\oldendenumerate=\endenumerate
+\def\endenumerate{\oldendenumerate %
+   \vspace*{-\baselineskip}%
+   }%
+   
+\let\oldenditemize=\enditemize
+\def\enditemize{\oldenditemize %
+   \vspace*{-\baselineskip}%
+   }%
+
+%%% 3. Used font awesome in latex %%%%
+\usepackage[fixed]{fontawesome5} %
+\faStyle{regular}
+
+%%% Change HyperLink Color %%%%%%%%%%%%%%%%%%%
+\usepackage{xcolor} % \definecolor
+\usepackage{hyperref}
+\definecolor{LinkColor}{HTML}{166E8E} % 0F4C74, 3B699E, 005D88, Elesiver: 166E8E
+\hypersetup{urlcolor=LinkColor}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 2. Change page style
+\AtBeginDocument{\let\maketitle\relax} % Supress \maketitle
+\usepackage{datetime2}
+\usepackage{fancyhdr}
+\usepackage{lastpage} % LastPage
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\lhead{}
+\rhead{} % Likan Zhan's CV
+\rfoot{} % Last update: \today
+\fancyfoot[C]{--~\thepage/\pageref*{LastPage}~--}
+
+%%%%%%%%%% Remove Warnings: Package microtype Warning: Unknown slot number of character
+\makeatletter
+\def\MT@warn@unknown{}
+\makeatother
