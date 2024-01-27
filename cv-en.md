@@ -39,7 +39,6 @@ format:
 - 2017 ~ Now. Statistics for the Behavioral Sciences, Undergraduates, 2 hours per week
 - 2022 ~ Now, Educational Psychology, Undergraduates, 2 hours per week
 - Archives  \
-    \
   *R for Modeling and Visualizing Data* (2016 ~ 2021) \
   *Experimental Psychology* (2019 ~ 2021) \
   *Introduction to Neurolinguistics* (2019 ~ 2021)  \
