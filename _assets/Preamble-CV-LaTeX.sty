@@ -12,7 +12,15 @@
    }
 \setmainfont{FF Nexus Serif0} %% FF Nexus Serif, FF Nexus Sans, Adobe Caslon Pro
 \usepackage{xeCJK}
-% \setCJKmainfont{Source Han Serif SC} %% Kaiti SC; Source Han Serif SC; Source Han Sans SC; simhei.ttf; simfang.ttf
+
+\defaultfontfeatures[Source Han Serif SC0]{
+   Extension = .otf,
+   UprightFont    = _assets/fonts/SourceHanSerifSC/SourceHanSerifSC-Regular,
+   BoldFont       = _assets/fonts/SourceHanSerifSC/SourceHanSerifSC-Bold,
+   ItalicFont     = _assets/fonts/SourceHanSerifSC/SourceHanSerifSC-Light,
+   BoldItalicFont = _assets/fonts/SourceHanSerifSC/SourceHanSerifSC-SemiBold,
+   }
+\setCJKmainfont{Source Han Serif SC0} %% Kaiti SC; Source Han Serif SC; Source Han Sans SC; simhei.ttf; simfang.ttf
 
 %%%%%% 2. Reduce after enumerate and itemized environment %%%%%%
 \let\oldendenumerate=\endenumerate
