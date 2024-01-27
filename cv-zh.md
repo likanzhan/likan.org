@@ -12,7 +12,7 @@ format:
     linestretch: 1
     include-in-header:
     - text: |
-        \usepackage{_assets/Preamble-CV-LaTeX}
+        \usepackage{_assets/CV-LaTeX-Preamble}
 ---
 
 ## 战立侃
@@ -20,7 +20,7 @@ format:
 - {{< fa university >}} &nbsp; 北京市海淀区学院路15号，北京语言大学
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- 最近更新：2024年1月26日
+- 最近更新：2024年1月27日
 
 ## 职业经历
 
@@ -39,7 +39,8 @@ format:
 - 2021 ~ 现在，*Julia 语言与统计学*, 每周2课时，相关专业研究生
 - 2017 ~ 现在，*行为科学统计学*，每周4课时，言语听觉本科生
 - 2022 ~ 现在，*教育心理学*，每周2课时，言语听觉本科生
-- 历史授课:   \
+- 历史授课: \
+    \
   *R语言与统计* (2016 ~ 2021) \
   *实验心理学* (2019 ~ 2021) \
   *神经语言学* (2019 ~ 2021)  \
@@ -75,6 +76,7 @@ format:
 
 1. 匿名评审 \
     \
+  *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
   *Journal of Psycholinguistic Research* (2023 - )  \
   *Journal of Pragmatics* (2022 - ) \
   *Cognition* (2021 - ) \
@@ -82,10 +84,10 @@ format:
   *Language, Cognition and Neuroscience* (2021 - )  \
   *First Language* (2021 - )  \
   *Frontiers in Psychology* (2020 - ) \
-  *Scientific Reports* (2018 - 2019)  \
-  *Journal of visualized experiments* (2018 - 2019) \
-  *语言教学与研究* (, 2016) \
-  *SAGE Open* (2016)
+  *Scientific Reports* (2018 - )  \
+  *Journal of visualized experiments* (2018 - ) \
+  *语言教学与研究* (2016 -) \
+  *SAGE Open* (2016 - )
 
 2. Frontiers in Psychology, *Review Editor* in Language Sciences (2020 - )
 
@@ -140,7 +142,8 @@ format:
 
 4. 受邀报告
 
-- **Zhan, L.** (2021, March). *Mixed Models with Julia*. Invited virtual lecture given at the course of *Language +* organized by Prof. Si. [{{< fa regular file-pdf >}}](https://publications.likan.info/Talks/Language_and_Language_Development.pdf)
+- **Zhan, L.** (2023, November). *Visual world paradigm: An eye-tracking technique to study the real time processing of spoken Language*. Invited presentation given at the Center for the Cognitive Science of Language, Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.info/Talks/VWP2023.pdf)
+- **Zhan, L.** (2022, May). *Mixed Models with Julia*. Invited virtual lecture given at the course of *Language* organized by Prof. Zhou. [{{< fa regular file-pdf >}}](https://publications.likan.info/Talks/StatisticsInPsychoLinguistics.pdf)
 - **Zhan, L.** (2020, October). *Language and Language Development*. Invited lecture given at the course of *Language +* organized by Prof. Si. [{{< fa regular file-pdf >}}](https://publications.likan.info/Talks/Language_and_Language_Development.pdf)
 - **Zhan, L.** (2019, August). *Gardener or carpenter: Some thoughts on nurturing a child*. Invited presentation given at Smiland Daycare Center. [{{< fa regular external-link-alt >}}](https://publications.likan.info/talks/parent/)
 - **Zhan, L.** (2018, December). *Sentential reasoning and sentential connectives: Conditional, disjunction, negation, and modality*. Invited presentation given at the Workshop of Theoretical and Experimental Linguistics, Tsinghua University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.info/Talks/Sentential_Reasoning_Sentential_Connectives.pdf)
