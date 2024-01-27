@@ -22,9 +22,8 @@ jobs:
         with:
           r-version: '4.2.0'
           
-      # - uses: actions/checkout@v3
-      - uses: r-lib/actions/setup-tinytex@v2
-      - run: tlmgr --version
+      - name: Install TinyTeX
+        uses: r-lib/actions/setup-tinytex@v2
 
       - name: Install additional LaTeX packages
         run: |
