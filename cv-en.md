@@ -11,7 +11,7 @@ format:
     linestretch: 1
     include-in-header:
     - text: |
-        \usepackage{Preamble-CV-LaTeX}
+        \usepackage{_assets/Preamble-CV-LaTeX}
 ---
 
 ## Zhan, Likan

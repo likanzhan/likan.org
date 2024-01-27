@@ -3,9 +3,16 @@
 \usepackage[fontsize=13pt]{scrextend}
 
 %%%%%% 1. Change font %%%%%%
-% \setmainfont{FF Nexus Serif} %% FF Nexus Serif, FF Nexus Sans, Adobe Caslon Pro
+\defaultfontfeatures[FF Nexus Serif0]{
+   Extension = .otf,
+   UprightFont    = _assets/fonts/FFNexusSerif/FF Nexus Serif Regular,
+   BoldFont       = _assets/fonts/FFNexusSerif/FF Nexus Serif Bold,
+   ItalicFont     = _assets/fonts/FFNexusSerif/FF Nexus Serif Italic,
+   BoldItalicFont = _assets/fonts/FFNexusSerif/FF Nexus Serif Bold Italic,
+   }
+\setmainfont{FF Nexus Serif0} %% FF Nexus Serif, FF Nexus Sans, Adobe Caslon Pro
 \usepackage{xeCJK}
-% \setCJKmainfont{Source Han Serif SC} %% Kaiti SC; Source Han Serif SC; Source Han Sans SC; simhei.ttf; simfang.ttf
+\setCJKmainfont{Source Han Serif SC} %% Kaiti SC; Source Han Serif SC; Source Han Sans SC; simhei.ttf; simfang.ttf
 
 %%%%%% 2. Reduce after enumerate and itemized environment %%%%%%
 \let\oldendenumerate=\endenumerate

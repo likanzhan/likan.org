@@ -12,7 +12,7 @@ format:
     linestretch: 1
     include-in-header:
     - text: |
-        \usepackage{Preamble-CV-LaTeX}
+        \usepackage{_assets/Preamble-CV-LaTeX}
 ---
 
 ## 战立侃
