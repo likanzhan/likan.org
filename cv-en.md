@@ -17,11 +17,9 @@ format:
 - 2018.12 ~ Now, Associate professor, \
   School of Communication Science,  \
   Beijing Language and Culture University, Beijing, China
-
 - 2016.06 ~ 2018.11, Assistant professor, \
   School of Communication Science,  \
   Beijing Language and Culture University, Beijing, China
-
 - 2014.09 ~ 2016.05, Assistant professor, \
   Faculty of Linguistic Sciences, \
   Beijing Language and Culture University, Beijing, China
@@ -30,10 +28,8 @@ format:
 
 - 2010.10 ~ 2014.09, Ph.D. Cognitive Science, \
   Macquarie University, Sydney, Australia
-
 - 2007.09 ~ 2010.07, M.E. Cognitive Psychology, \
   Beijing Language and Culture University, Beijing, China
-
 - 2000.09 ~ 2004.07, B.A. Teaching Chinese as a Second Language, \
   Beijing Language and Culture University, Beijing, China
 
