@@ -3,16 +3,7 @@ format:
   html:
     toc: true
     toc-title: 目录
-  pdf:
-    documentclass: ctexbook
-    toc: false
-    classoption: 
-      - UTF8
-    papersize: a4
-    linestretch: 1
-    include-in-header:
-    - text: |
-        \usepackage{_assets/CV-LaTeX-Preamble}
+  pdf: default
 ---
 
 ## 战立侃

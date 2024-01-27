@@ -2,16 +2,7 @@
 format:
   html:
     toc: true
-  pdf:
-    documentclass: ctexbook
-    toc: false
-    classoption: 
-      - UTF8
-    papersize: a4
-    linestretch: 1
-    include-in-header:
-    - text: |
-        \usepackage{_assets/CV-LaTeX-Preamble}
+  pdf: default
 ---
 
 ## Zhan, Likan

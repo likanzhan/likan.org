@@ -20,3 +20,15 @@ website:
         text: 关于
       - file: cv-zh.md
         text: 简历
+
+format:
+  pdf:
+    documentclass: ctexbook
+    toc: false
+    classoption: 
+      - UTF8
+    papersize: a4
+    linestretch: 1
+    include-in-header:
+    - text: |
+        \usepackage{_assets/CV-LaTeX-Preamble}
