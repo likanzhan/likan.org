@@ -18,9 +18,9 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Use Node.js
-         uses: actions/setup-node@v3
-         with:
-           node-version: 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
 
       - name: "Set up Julia"
         uses: julia-actions/setup-julia@v1
