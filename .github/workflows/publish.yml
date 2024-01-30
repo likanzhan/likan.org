@@ -22,10 +22,13 @@ jobs:
         with:
           node-version: 20
 
-      - name: "Set up Julia"
+      - name: Set up Julia
         uses: julia-actions/setup-julia@v1
         with:
           version: '1.10'
+
+      - name: Install Julia dependencies
+        uses: julia-actions/julia-buildpkg@v1
 
       - name: Install R
         uses: r-lib/actions/setup-r@v2
