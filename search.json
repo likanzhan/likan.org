@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "likan.org",
     "section": "",
-    "text": "战立侃，毕业于澳大利亚麦考瑞大学，认知科学博士，现就职于北京语言大学。\n一名教师，一名科研工作者，一个小白程序员。\n\n想了解这名教师，可以去看他开设的课程；\n想了解这名科研工作者，可以去看他的简历、他的小组成员、和小组开展的项目；\n想了解这个小白程序员，可以看他的 GitHub 主页，以及他在 R 语言和 Julia 语言领域的足迹；"
+    "text": "战立侃，毕业于澳大利亚麦考瑞大学，认知科学博士，现就职于北京语言大学。\n一名教师，一名科研工作者，一个小白程序员。\n\n想了解这名教师，可以去看他开设的课程；\n想了解这名科研工作者，可以去看他的简历、他的小组成员、和小组开展的项目；\n想了解这个小白程序员，可以看他的 GitHub 主页，以及他在 R 语言和 Julia 语言领域的足迹；\n\n\nversioninfo()\n\nJulia Version 1.10.0\nCommit 3120989f39b (2023-12-25 18:01 UTC)\nBuild Info:\n  Official https://julialang.org/ release\nPlatform Info:\n  OS: Linux (x86_64-linux-gnu)\n  CPU: 4 × AMD EPYC 7763 64-Core Processor\n  WORD_SIZE: 64\n  LIBM: libopenlibm\n  LLVM: libLLVM-15.0.7 (ORCJIT, znver3)\n  Threads: 2 on 4 virtual cores\nEnvironment:\n  JULIA_PKG_SERVER_REGISTRY_PREFERENCE = eager\n  LD_LIBRARY_PATH = /opt/hostedtoolcache/Python/3.10.13/x64/lib"
   },
   {
     "objectID": "cv-en.html",
