@@ -2,8 +2,8 @@ project:
   type: website
 
 theme:
-  dark: darkly
-  light: flatly
+  dark: _assets/darkly.scss
+  light: _assets/flatly.scss
 
 # jupyter: julia-1.10
 
