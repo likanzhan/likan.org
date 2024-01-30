@@ -5,6 +5,8 @@ theme:
   dark: darkly
   light: flatly
 
+# jupyter: julia-1.10
+
 website:
   title: "likan.org"
   navbar:
