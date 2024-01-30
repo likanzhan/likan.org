@@ -14,13 +14,13 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 20
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Set up Julia
         uses: julia-actions/setup-julia@v1
@@ -29,6 +29,8 @@ jobs:
 
       - name: Install Julia dependencies
         uses: julia-actions/julia-buildpkg@v1
+
+      - uses: julia-actions/cache@v1
 
       - name: Install R
         uses: r-lib/actions/setup-r@v2
