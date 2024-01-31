@@ -9,6 +9,7 @@ theme:
 
 website:
   title: "likan.org"
+  favicon: _assets/logo.png
   repo-url: https://github.com/likanzhan/likan.org
   repo-actions: [edit, issue]
   navbar:
