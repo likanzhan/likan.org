@@ -26,11 +26,11 @@ format:
 
 ## Education
 
-- 2010.10 ~ 2014.09, *Ph.D. Cognitive Science*, \
+- 2010.10 ~ 2014.09, Ph.D. Cognitive Science, \
   Macquarie University, Sydney, Australia
-- 2007.09 ~ 2010.07, *M.E. Cognitive Psychology*, \
+- 2007.09 ~ 2010.07, M.E. Cognitive Psychology, \
   Beijing Language and Culture University, Beijing, China
-- 2000.09 ~ 2004.07, *B.A. Teaching Chinese as a Second Language*, \
+- 2000.09 ~ 2004.07, B.A. Teaching Chinese as a Second Language, \
   Beijing Language and Culture University, Beijing, China
 
 ## Teaching Experience
