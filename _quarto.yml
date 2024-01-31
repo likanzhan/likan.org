@@ -9,6 +9,8 @@ theme:
 
 website:
   title: "likan.org"
+  repo-url: https://github.com/likanzhan/likan.org
+  repo-actions: [edit, issue]
   navbar:
     background: "light"
     left:
@@ -22,6 +24,11 @@ website:
         text: 关于
       - file: cv-zh.md
         text: 简历
+  page-footer: 
+    left: "Copyright 2024-, Likan Zhan" 
+    right: 
+      - icon: github
+        href: https://github.com/likanzhan
 
 format:
   pdf:

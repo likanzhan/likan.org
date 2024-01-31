@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2014-01-27
+- Last update: 2014-01-31
 
 ## Academic Appointment
 
@@ -26,24 +26,24 @@ format:
 
 ## Education
 
-- 2010.10 ~ 2014.09, Ph.D. Cognitive Science, \
+- 2010.10 ~ 2014.09, *Ph.D. Cognitive Science*, \
   Macquarie University, Sydney, Australia
-- 2007.09 ~ 2010.07, M.E. Cognitive Psychology, \
+- 2007.09 ~ 2010.07, *M.E. Cognitive Psychology*, \
   Beijing Language and Culture University, Beijing, China
-- 2000.09 ~ 2004.07, B.A. Teaching Chinese as a Second Language, \
+- 2000.09 ~ 2004.07, *B.A. Teaching Chinese as a Second Language*, \
   Beijing Language and Culture University, Beijing, China
 
 ## Teaching Experience
 
-- 2021 ~ Now, Statistics with Julia, Postgraduates, 2 hours per week
-- 2017 ~ Now. Statistics for the Behavioral Sciences, Undergraduates, 2 hours per week
-- 2022 ~ Now, Educational Psychology, Undergraduates, 2 hours per week
+- 2021 ~ Now, *Statistics with Julia*, Postgraduates, 2 hours per week
+- 2017 ~ Now. *Statistics for the Behavioral Sciences*, Undergraduates, 2 hours per week
+- 2022 ~ Now, *Educational Psychology*, Undergraduates, 2 hours per week
 - Archives  \
   *R for Modeling and Visualizing Data* (2016 ~ 2021) \
   *Experimental Psychology* (2019 ~ 2021) \
   *Introduction to Neurolinguistics* (2019 ~ 2021)  \
   *Introduction to Cognitive Neuroscience* (2015 ~ 2020)  \
-  *Foundations of Scientific Research* (2015 ~ 2021)  \
+  *Foundations of Scientific Research* (2015 ~ 2021)
 
 ## Grants, Projects, and Awards
 
@@ -73,7 +73,7 @@ format:
 ## Professional Activities
 
 1. Ad-hoc reviews \
-    \
+  \
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
   *Journal of Psycholinguistic Research* (2023 - )  \
   *Journal of Pragmatics* (2022 - ) \
@@ -93,10 +93,10 @@ format:
 - Licensed Examiner of Adaptive Behavior Assessment System 2nd Edition (ABAS-II) Chinese Version.
 
 3. Frontiers in Psychology, Review Editor in Language Sciences (2020 - )
+
 4. Organization of international meetings
 
 - Academic Advisory Committee, The 24th annual conference of the International Association of Chinese Linguistics ([IACL-24](http://iacl24.blcu.edu.cn)), Beijing Language and Culture University, Beijing, China.
-
 
 ## Publications
 
