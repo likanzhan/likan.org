@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2014-01-31
+- Last update: 2014-02-13
 
 ## Academic Appointment
 
@@ -120,11 +120,12 @@ format:
 2. Book, book chapters and conference proceedings
 
 - **Zhan, L.** (2015). *The Interpretation of Conditionals in Natural Language*. Saarbrucken, Germany: Lap Lambert Academic Publishing.
-- **Zhan, L.** (2018). Magnetoencephalography (MEG) as a Technique for Imaging Brain Function and Dysfunction. In *Top 10 Contributions on Psychology* (Chapter 4, pp. 1-38). Telangana, India: Avid Science
+- **Zhan, L.** (2018). Magnetoencephalography (MEG) as a Technique for Imaging Brain Function and Dysfunction. In *Top 10 Contributions on Psychology* (Chapter 4, pp. 1-38). Telangana, India: Avid Science [{{< fa regular file-pdf >}}](https://publications.likan.org/BookChapters/Magnetoencephalography-MEG-as-a-Technique-for-Imaging-Brain-Function-and-Dysfunction.pdf)
 - **Zhan, L.**, Crain, S., & Zhou, P. (2013). The anticipatory effects of focus operators: A visual-world paradigm eye-tracking study of “only if” and “even if” conditionals. In N. Goto, K. Otaki, A. Sato, & K. Takita (Eds.), *Proceedings of GLOW in Asia IX 2012*. Mie University, Japan.
 
 4. Peer reviewed conference presentations
 
+- **Zhan, L.** (2023, April). *The modality engendered by negation and where to find it*. Oral session presented at the 14th Biennial Academic Conference of Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/Negation2023.pdf)
 - **Zhan, L.** (2020, October). *Non-factual property entailed by conditionals has to be endorsed by a valid theory of verbal reasoning*. Oral session presented at the 13th Biennial Academic Conference of Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/Conditional_Verbal_Reasoning.pdf)
 - **Zhan, L.**, & Zhou, P. (2019, June). *Children differ from adults in interpreting disjunctions: Evidence from an eye-tracking study*. Poster session presented at Psycholinguistics in Iceland - Parsing and Prediction, University of Iceland, Reykjavík, Iceland. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/PIPP_Poster.pdf)
 - **Zhan, L.** (2017, September). *Scalar implicature and ignorance inference are both locally computed: Evidence from the online processing of disjunctions using the visual world paradigm*. Oral session presented at the Second High-level Forum on Cognitive Linguistics, University of International Business and Economics, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/ZhanL2017UIBE.pdf)
