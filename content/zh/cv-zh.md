@@ -129,7 +129,7 @@ format:
 
 4. 受邀报告
 
-- **Zhan, L.** (2023, November). *Visual world paradigm: An eye-tracking technique to study the real time processing of spoken Language*. Invited presentation given at the Center for the Cognitive Science of Language, Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/VWP2023.pdf)
+- **Zhan, L.** (2023, November). *Visual world paradigm: An eye-tracking technique to study the real time processing of spoken Language*. Invited presentation given at the "The Frontier of Language and Cognitive Science: Perspectives from Chinese and Western Scholars" Lecture Series organized by the Center for the Cognitive Science of Language, Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/VWP2023.pdf)
 - **Zhan, L.** (2022, May). *Mixed Models with Julia*. Invited virtual lecture given at the course of *Language* organized by Prof. Zhou. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/StatisticsInPsychoLinguistics.pdf)
 - **Zhan, L.** (2020, October). *Language and Language Development*. Invited lecture given at the course of *Language +* organized by Prof. Si. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/Language_and_Language_Development.pdf)
 - **Zhan, L.** (2019, August). *Gardener or carpenter: Some thoughts on nurturing a child*. Invited presentation given at Smiland Daycare Center. [{{< fa regular external-link-alt >}}](https://publications.likan.org/talks/parent/)

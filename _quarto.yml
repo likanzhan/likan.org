@@ -15,18 +15,18 @@ website:
   navbar:
     background: "light"
     left:
-      - file: about-en.md
+      - file: content/en/about-en.md
         text: About
-      - file: cv-en.md
+      - file: content/en/cv-en.md
         text: CV
-      - url: http://sapere-aude.group
-        text: Team
-      - file: about-zh.md
+      - file: content/zh/about-zh.md
         text: 关于
-      - file: cv-zh.md
+      - file: content/zh/cv-zh.md
         text: 简历
+      - url: http://sapere-aude.group
+        text: 小组
   page-footer: 
-    left: "Copyright 2024-, Likan Zhan" 
+    left: "Copyright 2024, Likan Zhan" 
     right: 
       - icon: github
         href: https://github.com/likanzhan
@@ -41,4 +41,4 @@ format:
     linestretch: 1
     include-in-header:
     - text: |
-        \usepackage{_assets/CV-LaTeX-Preamble}
+        \usepackage{../../_assets/CV-LaTeX-Preamble}
