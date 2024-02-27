@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://likan.org/index.html</loc>
-    <lastmod>2024-02-13T03:37:50.506Z</lastmod>
+    <lastmod>2024-02-27T02:51:09.416Z</lastmod>
   </url>
   <url>
-    <loc>https://likan.org/about-zh.html</loc>
-    <lastmod>2024-02-13T03:37:50.506Z</lastmod>
+    <loc>https://likan.org/content/zh/cv-zh.html</loc>
+    <lastmod>2024-02-27T02:51:09.416Z</lastmod>
   </url>
   <url>
-    <loc>https://likan.org/cv-zh.html</loc>
-    <lastmod>2024-02-13T03:37:50.506Z</lastmod>
+    <loc>https://likan.org/content/en/cv-en.html</loc>
+    <lastmod>2024-02-27T02:51:09.416Z</lastmod>
   </url>
   <url>
-    <loc>https://likan.org/about-en.html</loc>
-    <lastmod>2024-02-13T03:37:50.506Z</lastmod>
+    <loc>https://likan.org/content/en/about-en.html</loc>
+    <lastmod>2024-02-27T02:51:09.416Z</lastmod>
   </url>
   <url>
-    <loc>https://likan.org/cv-en.html</loc>
-    <lastmod>2024-02-13T03:37:50.506Z</lastmod>
+    <loc>https://likan.org/content/zh/about-zh.html</loc>
+    <lastmod>2024-02-27T02:51:09.416Z</lastmod>
   </url>
 </urlset>
