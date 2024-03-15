@@ -10,10 +10,13 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2014-02-13
+- Last update: 2014-03-15
 
 ## Academic Appointment
 
+- 2024.03 ~ Now, Visiting Scholar, \
+  Department of Mathematics, \
+  Linnaeus University, Växjö, Sweden
 - 2018.12 ~ Now, Associate professor, \
   School of Communication Science,  \
   Beijing Language and Culture University, Beijing, China
@@ -83,7 +86,7 @@ format:
   *First Language* (2021 - )  \
   *Frontiers in Psychology* (2020 - ) \
   *Scientific Reports* (2018 - )  \
-  *Journal of visualized experiments* (2018 - ) \
+  *Journal of Visualized Experiments* (2018 - ) \
   *Language Teaching and Linguistic Studies* (In Chinese, 2016 - ) \
   *SAGE Open* (2016 - )
 

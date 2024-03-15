@@ -11,10 +11,11 @@ format:
 - {{< fa university >}} &nbsp; 北京市海淀区学院路15号，北京语言大学
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- 最近更新：2024年2月13日
+- 最近更新：2024年3月15日
 
 ## 职业经历
 
+- 2024.03 ~ 现在，访问学者，瑞典林奈大学数学学院
 - 2018.12 ~ 现在，副教授，北京语言大学语言康复学院
 - 2016.06 ~ 2018.11，助理研究员，北京语言大学语言康复学院
 - 2014.10 ~ 2016.05，助理研究员，北京语言大学语言科学院
@@ -74,7 +75,7 @@ format:
   *First Language* (2021 - )  \
   *Frontiers in Psychology* (2020 - ) \
   *Scientific Reports* (2018 - )  \
-  *Journal of visualized experiments* (2018 - ) \
+  *Journal of Visualized Experiments* (2018 - ) \
   *语言教学与研究* (2016 -) \
   *SAGE Open* (2016 - )
 
@@ -82,6 +83,7 @@ format:
 
 3. 会议组织
 - 国际中国语言学会第24届年会，会务组和咨询委员会委员，2016年7月17日-19日，北京语言大学
+
 4. 执业资格
 - 韦氏婴幼儿智力量表第四版（WPPSI-VI）中文版主试资格
 - 适应性行为评定量表第二版（ABAS-II）中文版主试资格
