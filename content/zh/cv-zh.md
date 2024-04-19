@@ -11,7 +11,7 @@ format:
 - {{< fa university >}} &nbsp; 北京市海淀区学院路15号，北京语言大学
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- 最近更新：2024年3月15日
+- 最近更新：2024年4月17日
 
 ## 职业经历
 
@@ -66,6 +66,7 @@ format:
 ## 学术兼职
 
 1. 匿名评审 \
+  *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - )\
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
   *Journal of Psycholinguistic Research* (2023 - )  \
   *Journal of Pragmatics* (2022 - ) \

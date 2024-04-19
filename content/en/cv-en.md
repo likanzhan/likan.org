@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2014-03-15
+- Last update: 2014-04-17
 
 ## Academic Appointment
 
@@ -77,6 +77,7 @@ format:
 
 1. Ad-hoc reviews \
   \
+  *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - )\
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
   *Journal of Psycholinguistic Research* (2023 - )  \
   *Journal of Pragmatics* (2022 - ) \
