@@ -7,7 +7,7 @@ Zhan Likan is an associate professor at Beijing Language University and a visiti
 
 One of his interestes lies in "the uniqueness of human cognition compared to other animals" and its related developmental disorders. One important manifestation of human uniqueness compared to other animals is the ability to represent displacement information. This ability can be demonstrated in many traditional subfields such as perception, language, and social cognition, all of which fall within his research scope.
 
-His current research topics include interpretation of probability (classical and quantum), logical reasoning, mentalizing, social cognition, as well as the acquisition and processing mechanisms of complex sentences (such as conditional sentences, disjunctive sentences, negative sentences, etc.).
+His current research topics include interpretation of probability (classical and quantum), logical reasoning, mentalizing, social cognition, as well as the acquisition and processing of complex sentences (such as conditional sentences, disjunctive sentences, negative sentences, etc.).
 
 In terms of technology, he is proficient in writing experimental programs using software such as Psychopy, E-Prime, Experimental Builder, and related tools. He collects research data using eye-tracking, electroencephalography (EEG), and magnetoencephalography (MEG) devices. He conducts in-depth exploration, visualization, and statistical modeling of behavioral and neurophysiological data using languages like Julia, Matlab, and R. His statistical modeling expertise includes frequency analysis and Bayesian analysis, among others.
 
