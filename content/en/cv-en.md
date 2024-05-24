@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2014-04-17
+- Last update: 2014-05-24
 
 ## Academic Appointment
 
@@ -145,6 +145,7 @@ format:
 
 3. Invited talks
 
+- **Zhan, L.** (2024, May). *Probability of implication*. Invited presentation given at Department of Mathematics, Linnaeus University, Växjö, Sweden. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/ProbabilityOfImplication.pdf)
 - **Zhan, L.** (2023, November). *Visual world paradigm: An eye-tracking technique to study the real time processing of spoken Language*. Invited presentation given at the "The Frontier of Language and Cognitive Science: Perspectives from Chinese and Western Scholars" Lecture Series organized by the Center for the Cognitive Science of Language, Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/VWP2023.pdf)
 - **Zhan, L.** (2022, May). *Mixed Models with Julia*. Invited virtual lecture given at the course of *Language* organized by Prof. Zhou. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/StatisticsInPsychoLinguistics.pdf)
 - **Zhan, L.** (2020, October). *Language and Language Development*. Invited lecture given at the course of *Language +* organized by Prof. Si. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/Language_and_Language_Development.pdf)
