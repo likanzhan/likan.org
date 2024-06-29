@@ -129,7 +129,7 @@ format:
 
 4. Peer reviewed conference presentations
 
-- **Zhan, L.**, Khrennikov, A. (2024, June). *Violation of Leggett–Garg inequality in perceiving bistable cup-like objects*. Poster session presented at the 25th Quantum Information and Probability: from Foundations to Engineering (QIP24). [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/QIP2024.pdf)
+- **Zhan, L.**, Khrennikov, A. (2024, June). *Violation of Leggett–Garg inequality in perceiving bistable cup-like objects*. Poster session presented at the 25th Quantum Information and Probability: from Foundations to Engineering (QIP24), Linnaeus University, Växjö, Sweden. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/QIP2024.pdf)
 - **Zhan, L.** (2023, April). *The modality engendered by negation and where to find it*. Oral session presented at the 14th Biennial Academic Conference of Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/Negation2023.pdf)
 - **Zhan, L.** (2020, October). *Non-factual property entailed by conditionals has to be endorsed by a valid theory of verbal reasoning*. Oral session presented at the 13th Biennial Academic Conference of Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/Conditional_Verbal_Reasoning.pdf)
 - **Zhan, L.**, & Zhou, P. (2019, June). *Children differ from adults in interpreting disjunctions: Evidence from an eye-tracking study*. Poster session presented at Psycholinguistics in Iceland - Parsing and Prediction, University of Iceland, Reykjavík, Iceland. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/PIPP_Poster.pdf)
