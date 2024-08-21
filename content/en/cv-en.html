@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.557">
+<meta name="generator" content="quarto-1.5.56">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>likan.org</title>
+<title>cv-en – likan.org</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -87,7 +87,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -151,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 <li><i class="fa-solid fa-university" aria-label="university"></i> &nbsp; No.&nbsp;15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China</li>
 <li><i class="fa-solid fa-envelope" aria-label="envelope"></i> &nbsp; <a href="mailto:zhanlikan@hotmail.com" class="email">zhanlikan@hotmail.com</a></li>
 <li><i class="fa-solid fa-globe" aria-label="globe"></i> &nbsp; <a href="https://likan.org" class="uri">https://likan.org</a></li>
-<li>Last update: 2014-06-28</li>
+<li>Last update: 2014-08-21</li>
 </ul>
 </section>
 <section id="academic-appointment" class="level2">
@@ -312,6 +312,7 @@ Beijing Language and Culture University, Beijing, China</li>
 <li>Invited talks</li>
 </ol>
 <ul>
+<li><strong>Zhan, L.</strong>, Khrennikov, A., &amp; Zhu, Y. (2024, August). <em>Confirming cognitive contextuality: Violation of the Leggett-Garg inequality and demonstration of cognitive hysteresis in perceiving cup-like objects</em>. Invited presentation given at 19th Southeast Conference in Mathematics, Blekinge Institute of Technology, Karlskrona, Sweden. <a href="https://publications.likan.org/Talks/CupPerceptionTalk.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a></li>
 <li><strong>Zhan, L.</strong> (2024, May). <em>Probability of implication</em>. Invited presentation given at Department of Mathematics, Linnaeus University, Växjö, Sweden. <a href="https://publications.likan.org/Talks/ProbabilityOfImplication.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a></li>
 <li><strong>Zhan, L.</strong> (2023, November). <em>Visual world paradigm: An eye-tracking technique to study the real time processing of spoken Language</em>. Invited presentation given at the “The Frontier of Language and Cognitive Science: Perspectives from Chinese and Western Scholars” Lecture Series organized by the Center for the Cognitive Science of Language, Beijing Language and Culture University, Beijing, China. <a href="https://publications.likan.org/Talks/VWP2023.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a></li>
 <li><strong>Zhan, L.</strong> (2022, May). <em>Mixed Models with Julia</em>. Invited virtual lecture given at the course of <em>Language</em> organized by Prof.&nbsp;Zhou. <a href="https://publications.likan.org/Talks/StatisticsInPsychoLinguistics.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a></li>
@@ -506,18 +507,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -549,7 +539,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/likan\.org");
@@ -557,7 +569,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -884,7 +896,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright 2024, Likan Zhan</p>
+<p>Copyright 2024 - , Likan Zhan</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
