@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2014-06-28
+- Last update: 2014-08-21
 
 ## Academic Appointment
 
@@ -146,6 +146,7 @@ format:
 
 3. Invited talks
 
+- **Zhan, L.**, Khrennikov, A., & Zhu, Y. (2024, August). *Confirming cognitive contextuality: Violation of the Leggett-Garg inequality and demonstration of cognitive hysteresis in perceiving cup-like objects*. Invited presentation given at 19th Southeast Conference in Mathematics, Blekinge Institute of Technology, Karlskrona, Sweden. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/CupPerceptionTalk.pdf)
 - **Zhan, L.** (2024, May). *Probability of implication*. Invited presentation given at Department of Mathematics, Linnaeus University, Växjö, Sweden. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/ProbabilityOfImplication.pdf)
 - **Zhan, L.** (2023, November). *Visual world paradigm: An eye-tracking technique to study the real time processing of spoken Language*. Invited presentation given at the "The Frontier of Language and Cognitive Science: Perspectives from Chinese and Western Scholars" Lecture Series organized by the Center for the Cognitive Science of Language, Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/VWP2023.pdf)
 - **Zhan, L.** (2022, May). *Mixed Models with Julia*. Invited virtual lecture given at the course of *Language* organized by Prof. Zhou. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/StatisticsInPsychoLinguistics.pdf)
