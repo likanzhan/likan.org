@@ -116,6 +116,7 @@ format:
 
 3. 同行评审的大会报告
 
+- **Zhan, L.**, Xue, Y., Zhou, P., & Xie, Y. (2024, September). *Does cortical tracking signify linguistic hierarchical structures in the visual domain?* Poster session presented at the 30th Architectures and Mechanisms for Language Processing (AMLaP24), University of Edinburgh, Scotland. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/AMLaP2024.pdf)
 - **Zhan, L.**, Khrennikov, A. (2024, June). *Violation of Leggett–Garg inequality in perceiving bistable cup-like objects*. Poster session presented at the 25th Quantum Information and Probability: from Foundations to Engineering (QIP24), Linnaeus University, Växjö, Sweden. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/QIP2024.pdf)
 - **Zhan, L.** (2023, April). *The modality engendered by negation and where to find it*. Oral session presented at the 14th Biennial Academic Conference of Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/Negation2023.pdf)
 - **Zhan, L.** (2020, October). *Non-factual property entailed by conditionals has to be endorsed by a valid theory of verbal reasoning*. Oral session presented at the 13th Biennial Academic Conference of Beijing Language and Culture University, Beijing, China. [{{< fa regular file-pdf >}}](https://publications.likan.org/Talks/Conditional_Verbal_Reasoning.pdf)
