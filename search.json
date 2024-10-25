@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "likan.org",
+    "section": "",
+    "text": "What I cannot create, I do not understand.\n– Richard Feynman"
+  },
+  {
     "objectID": "content/en/about-en.html",
     "href": "content/en/about-en.html",
     "title": "likan.org",
@@ -12,13 +19,6 @@
     "title": "likan.org",
     "section": "",
     "text": "战立侃是北京语言大学副教授。主持国家社会科学基金一项，发表专著一部，SSCI 或 SCIE 论文14余篇。\n其主要研究兴趣为 “与其他动物相比，人类认知的独特性”，及其相关发展障碍。 与其他动物相比，人类独特性的一个重要体现是对非当时当下 (Displacement) 信息的表征能力。 该能力能在很多传统细分领域中体现出来，如感知觉、语言、社会性认知等，这些议题都是他的研究范围。 目前主要研究课题包括概率理解（经典概率和量子概率），逻辑推理、心理理论和社会性认知、复杂句子（如条件句、析取句、否定句等）的习得和加工机制等。\n技术方面，他擅长用 psychopy、eprime、experimental builder 及相关软件编写实验程序，用眼动、脑电和脑磁等设备收集研究数据， 用 Julia、Matlab 和 R 等对行为和神经生理数据进行深入挖掘、可视化、和统计建模等。 擅长的统计建模方式包括频率分析和贝叶斯分析等。"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "likan.org",
-    "section": "",
-    "text": "Likan Zhan received his Ph.D. in Cognitive Science from Macquarie University, Australia.\nHe is now associate professor at Beijing Language and Culture University, China.\nHe is a teacher, a researcher, and a novice programmer (Julia and R).\n战立侃，毕业于澳大利亚麦考瑞大学，认知科学博士，现为北京语言大学副教授。\n他是一名教师，一名科研工作者，一个小白程序员。\n想了解这名教师，可以去看他开设的课程；\n想了解这名科研工作者，可以去看他的简历、他的小组成员、和小组开展的项目；\n想了解这个小白程序员，可以看他的 GitHub 主页，以及他在 Julia 和 R 语言领域的足迹。"
   },
   {
     "objectID": "content/zh/cv-zh.html",
