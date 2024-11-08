@@ -93,7 +93,7 @@ format:
 
 1. 杂志论文
 
-- **Zhan, L.**, Khrennikov, A., & Zhu, Y. (2024). Violation of Leggett–Garg inequality in perceiving cup-like objects and cognitive contextuality. Entropy, 26(11). https://doi.org/10.3390/e26110950 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/entropy-26-00950-v3.pdf)
+- **Zhan, L.**, Khrennikov, A., & Zhu, Y. (2024). Violation of Leggett–Garg inequality in perceiving cup-like objects and cognitive contextuality. *Entropy, 26*(11). https://doi.org/10.3390/e26110950 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/entropy-26-00950-v3.pdf)
 - **Zhan, L.**, & Zhou, P. (2023). The online processing of hypothetical events: A visual world eye-tracking study on conditionals and causal statements. *Experimental Psychology, 70*(2), 108-117. doi: 10.1027/1618-3169/a000579  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/ExpPsychol2023.pdf)
 - Zhou, P., Shi, J., & **Zhan, L.** (2021). Real-time comprehension of garden-path constructions by preschoolers: A Mandarin perspective. *Applied Psycholinguistics, 42*(1), 181-205. doi: 10.1017/S0142716420000697  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/ApplPsycholinguist2021.pdf)
 - Zhou, P., Ma, W., & **Zhan, L.** (2019). A deficit in using prosodic cues to understand communicative intentions by children with autism spectrum disorders: An eye-tracking study. *First Language*. doi: 10.1177/0142723719885270 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstLang2019.pdf)
