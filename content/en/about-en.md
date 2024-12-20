@@ -3,7 +3,7 @@ format:
   html: default
 ---
 
-Zhan Likan is an associate professor at Beijing Language University and a visiting scholar at the department of mathematics, Linnaeus University. He has led a project funded by the National Social Science Fund, published a monograph and 14 papers in SSCI or SCIE journals.
+Zhan Likan is an associate professor at Beijing Language University and a visiting scholar at the department of mathematics, Linnaeus University. He has led a project funded by the National Social Science Fund, published a monograph and 15 papers in SSCI or SCIE journals.
 
 One of his interestes lies in "the uniqueness of human cognition compared to other animals" and its related developmental disorders. One important manifestation of human uniqueness compared to other animals is the ability to represent displacement information. This ability can be demonstrated in many traditional subfields such as perception, language, and social cognition, all of which fall within his research scope. 
 
