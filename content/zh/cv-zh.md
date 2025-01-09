@@ -93,7 +93,7 @@ format:
 
 1. 杂志论文
 
-- Xie, Y., Zhou, P., *Zhan, L.*, & Xue, Y. (2025). Low-frequency neural activity tracks syntactic information through semantic mediation. Brain and Language, 261. https://doi.org/10.1016/j.bandl.2025.105532 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/BrainLang2025.pdf)
+- Xie, Y., Zhou, P., **Zhan, L.**, & Xue, Y. (2025). Low-frequency neural activity tracks syntactic information through semantic mediation. Brain and Language, 261. https://doi.org/10.1016/j.bandl.2025.105532 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/BrainLang2025.pdf)
 - **Zhan, L.**, Khrennikov, A., & Zhu, Y. (2024). Violation of Leggett–Garg inequality in perceiving cup-like objects and cognitive contextuality. *Entropy, 26*(11). https://doi.org/10.3390/e26110950 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/entropy-26-00950-v3.pdf)
 - **Zhan, L.**, & Zhou, P. (2023). The online processing of hypothetical events: A visual world eye-tracking study on conditionals and causal statements. *Experimental Psychology, 70*(2), 108-117. doi: 10.1027/1618-3169/a000579  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/ExpPsychol2023.pdf)
 - Zhou, P., Shi, J., & **Zhan, L.** (2021). Real-time comprehension of garden-path constructions by preschoolers: A Mandarin perspective. *Applied Psycholinguistics, 42*(1), 181-205. doi: 10.1017/S0142716420000697  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/ApplPsycholinguist2021.pdf)
