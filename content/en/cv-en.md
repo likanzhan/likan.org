@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2015-01-09
+- Last update: 2015-03-31
 
 ## Academic Appointment
 
@@ -105,6 +105,8 @@ format:
 ## Publications
 
 1. Periodicals
+
+- Lu, C., Wang, M., **Zhan, L.**, Lu, M. (2025). Unveiling Cognitive Interference: fNIRS Insights Into Poststroke Aphasia During Stroop Tasks. *Neural Plasticity, 2025*, 1456201. https://doi.org/10.1155/np/1456201 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/NeuralPlasticity2025.pdf)
 
 - Xie, Y., Zhou, P., **Zhan, L.**, & Xue, Y. (2025). Low-frequency neural activity tracks syntactic information through semantic mediation. *Brain and Language, 261*. https://doi.org/10.1016/j.bandl.2025.105532 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/BrainLang2025.pdf)
 - **Zhan, L.**, Khrennikov, A., & Zhu, Y. (2024). Violation of Leggett–Garg inequality in perceiving cup-like objects and cognitive contextuality. *Entropy, 26*(11). https://doi.org/10.3390/e26110950 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/entropy-26-00950-v3.pdf)
