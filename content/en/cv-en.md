@@ -77,6 +77,7 @@ format:
 
 1. Ad-hoc reviews \
   \
+  *Acta Psychologica* (2025 - )\
   *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - )\
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
   *Journal of Psycholinguistic Research* (2023 - )  \

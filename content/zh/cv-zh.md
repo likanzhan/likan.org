@@ -66,6 +66,7 @@ format:
 ## 学术兼职
 
 1. 匿名评审 \
+  *Acta Psychologica* (2025 - )\
   *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - )\
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
   *Journal of Psycholinguistic Research* (2023 - )  \
