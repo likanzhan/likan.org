@@ -11,7 +11,7 @@ format:
 - {{< fa university >}} &nbsp; 北京市海淀区学院路15号，北京语言大学
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- 最近更新：2024年06月08日
+- 最近更新：2024年07月08日
 
 ## 职业经历
 
@@ -94,7 +94,7 @@ format:
 
 1. 杂志论文
 
-- **Zhan, L.**, Wang, M. (Accepted). Probabilities of conditionals: The relevance effect might be confounded by the existence of boundary cases. *Psychonomic Bulletin & Review*.
+- **Zhan, L.**, Wang, M. (2025). Probabilities of conditionals: The relevance effect might be confounded by the existence of boundary cases. *Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-025-02725-2 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/PsychonomicBulletinReview2025.pdf)
 
 - Lu, C., Wang, M., **Zhan, L.**, Lu, M. (2025). Unveiling Cognitive Interference: fNIRS Insights Into Poststroke Aphasia During Stroop Tasks. *Neural Plasticity, 2025*, 1456201. https://doi.org/10.1155/np/1456201 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/NeuralPlasticity2025.pdf)
 - Xie, Y., Zhou, P., **Zhan, L.**, & Xue, Y. (2025). Low-frequency neural activity tracks syntactic information through semantic mediation. *Brain and Language, 261*. https://doi.org/10.1016/j.bandl.2025.105532 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/BrainLang2025.pdf)

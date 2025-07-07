@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2015-06-08
+- Last update: 2015-07-08
 
 ## Academic Appointment
 
@@ -107,7 +107,7 @@ format:
 
 1. Periodicals
 
-- **Zhan, L.**, Wang, M. (Accepted). Probabilities of conditionals: The relevance effect might be confounded by the existence of boundary cases. *Psychonomic Bulletin & Review*.
+- **Zhan, L.**, Wang, M. (2025). Probabilities of conditionals: The relevance effect might be confounded by the existence of boundary cases. *Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-025-02725-2 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/PsychonomicBulletinReview2025.pdf)
 
 - Lu, C., Wang, M., **Zhan, L.**, Lu, M. (2025). Unveiling Cognitive Interference: fNIRS Insights Into Poststroke Aphasia During Stroop Tasks. *Neural Plasticity, 2025*, 1456201. https://doi.org/10.1155/np/1456201 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/NeuralPlasticity2025.pdf)
 
