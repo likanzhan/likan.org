@@ -11,7 +11,7 @@ format:
 - {{< fa university >}} &nbsp; 北京市海淀区学院路15号，北京语言大学
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- 最近更新：2024年07月08日
+- 最近更新：2024年09月17日
 
 ## 职业经历
 
@@ -28,13 +28,14 @@ format:
 
 ## 教学经历
 
-- 2021 ~ 现在，*Julia语言与统计学*, 每周2课时，相关专业研究生
-- 2017 ~ 现在，*行为科学统计学*，每周4课时，言语听觉本科生
-- 2022 ~ 现在，*教育心理学*，每周2课时，言语听觉本科生
+- 2025 ~ 现在，语言学概论, 每周2课时，言语听觉本科生
 - 历史授课: \
+  *教育心理学* (2022 ~ 2024) \
+  *Julia语言与统计学* (2021 ~ 2024) \
   *R语言与统计* (2016 ~ 2021) \
   *实验心理学* (2019 ~ 2021) \
   *神经语言学* (2019 ~ 2021)  \
+  *行为科学统计学* (2017 ~ 2024) \
   *认知神经科学* (2015 ~ 2020)  \
   *医学文献检索与阅读* (2015 ~ 2021)
 
@@ -95,7 +96,6 @@ format:
 1. 杂志论文
 
 - **Zhan, L.**, Wang, M. (2025). Probabilities of conditionals: The relevance effect might be confounded by the existence of boundary cases. *Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-025-02725-2 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/PsychonomicBulletinReview2025.pdf)
-
 - Lu, C., Wang, M., **Zhan, L.**, Lu, M. (2025). Unveiling Cognitive Interference: fNIRS Insights Into Poststroke Aphasia During Stroop Tasks. *Neural Plasticity, 2025*, 1456201. https://doi.org/10.1155/np/1456201 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/NeuralPlasticity2025.pdf)
 - Xie, Y., Zhou, P., **Zhan, L.**, & Xue, Y. (2025). Low-frequency neural activity tracks syntactic information through semantic mediation. *Brain and Language, 261*. https://doi.org/10.1016/j.bandl.2025.105532 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/BrainLang2025.pdf)
 - **Zhan, L.**, Khrennikov, A., & Zhu, Y. (2024). Violation of Leggett–Garg inequality in perceiving cup-like objects and cognitive contextuality. *Entropy, 26*(11). https://doi.org/10.3390/e26110950 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/entropy-26-00950-v3.pdf)

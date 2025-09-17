@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2015-07-08
+- Last update: 2015-09-17
 
 ## Academic Appointment
 
@@ -38,14 +38,15 @@ format:
 
 ## Teaching Experience
 
-- 2021 ~ Now, *Statistics with Julia*, Postgraduates, 2 hours per week
-- 2017 ~ Now. *Statistics for the Behavioral Sciences*, Undergraduates, 2 hours per week
-- 2022 ~ Now, *Educational Psychology*, Undergraduates, 2 hours per week
-- Archives  \
+- 2025 ~ Now. Introduction to Linguisitcs, Undergraduates, 2 hours per week
+- Archives \
+  *Educational Psychology* (2022 ~ 2024) \
+  *Statistics with Julia* (2021 ~ 2024) \
   *R for Modeling and Visualizing Data* (2016 ~ 2021) \
   *Experimental Psychology* (2019 ~ 2021) \
-  *Introduction to Neurolinguistics* (2019 ~ 2021)  \
-  *Introduction to Cognitive Neuroscience* (2015 ~ 2020)  \
+  *Introduction to Neurolinguistics* (2019 ~ 2021) \
+  *Statistics for the Behavioral Sciences* (2017-2024) \
+  *Introduction to Cognitive Neuroscience* (2015 ~ 2020) \
   *Foundations of Scientific Research* (2015 ~ 2021)
 
 ## Grants, Projects, and Awards
@@ -108,9 +109,7 @@ format:
 1. Periodicals
 
 - **Zhan, L.**, Wang, M. (2025). Probabilities of conditionals: The relevance effect might be confounded by the existence of boundary cases. *Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-025-02725-2 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/PsychonomicBulletinReview2025.pdf)
-
 - Lu, C., Wang, M., **Zhan, L.**, Lu, M. (2025). Unveiling Cognitive Interference: fNIRS Insights Into Poststroke Aphasia During Stroop Tasks. *Neural Plasticity, 2025*, 1456201. https://doi.org/10.1155/np/1456201 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/NeuralPlasticity2025.pdf)
-
 - Xie, Y., Zhou, P., **Zhan, L.**, & Xue, Y. (2025). Low-frequency neural activity tracks syntactic information through semantic mediation. *Brain and Language, 261*. https://doi.org/10.1016/j.bandl.2025.105532 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/BrainLang2025.pdf)
 - **Zhan, L.**, Khrennikov, A., & Zhu, Y. (2024). Violation of Leggett–Garg inequality in perceiving cup-like objects and cognitive contextuality. *Entropy, 26*(11). https://doi.org/10.3390/e26110950 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/entropy-26-00950-v3.pdf)
 - **Zhan, L.**, & Zhou, P. (2023). The online processing of hypothetical events: A visual world eye-tracking study on conditionals and causal statements. *Experimental Psychology, 70*(2), 108-117. doi: 10.1027/1618-3169/a000579  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/ExpPsychol2023.pdf)
