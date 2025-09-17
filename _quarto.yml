@@ -39,6 +39,7 @@ format:
       - UTF8
     papersize: a4
     linestretch: 1
+    pdf-engine: xelatex
     include-in-header:
     - text: |
         \usepackage{../../_assets/CV-LaTeX-Preamble}
