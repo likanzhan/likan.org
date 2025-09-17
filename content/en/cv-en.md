@@ -38,7 +38,7 @@ format:
 
 ## Teaching Experience
 
-- 2025 ~ Now. Introduction to Linguisitcs, Undergraduates, 2 hours per week
+- 2025 ~ Now. *Introduction to Linguistics*, Undergraduates, 2 hours per week
 - Archives \
   *Educational Psychology* (2022 ~ 2024) \
   *Statistics with Julia* (2021 ~ 2024) \
