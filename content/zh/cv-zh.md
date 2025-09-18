@@ -13,9 +13,16 @@ format:
 - {{< fa globe >}} &nbsp; <https://likan.org>
 - 最近更新：2024年09月17日
 
+## 个人简介
+
+战立侃，北京语言大学副教授，基础心理学、语言病理学硕士生导师。
+澳大利亚麦考瑞大学认知科学博士，瑞典林奈大学数学系访问学者。
+主要研究兴趣包括语言理解、言语推理、量子认知、心理理论和社会性认知等，及相关课题在典型和发展障碍儿童中的应用。
+主持国家社科基金一项，发表SCI和SSCI论文18余篇。
+
 ## 职业经历
 
-- 2018.12 ~ 现在，副教授，北京语言大学语言康复学院
+- 2018.12 ~ 现在，副教授，北京语言大学心理与认知科学学院
 - 2024.03 ~ 2025.04，访问学者，瑞典林奈大学数学系
 - 2016.06 ~ 2018.11，助理研究员，北京语言大学语言康复学院
 - 2014.10 ~ 2016.05，助理研究员，北京语言大学语言科学院
@@ -34,7 +41,7 @@ format:
   *Julia语言与统计学* (2021 ~ 2024) \
   *R语言与统计* (2016 ~ 2021) \
   *实验心理学* (2019 ~ 2021) \
-  *神经语言学* (2019 ~ 2021)  \
+  *神经语言学* (2019 ~ 2021) \
   *行为科学统计学* (2017 ~ 2024) \
   *认知神经科学* (2015 ~ 2020)  \
   *医学文献检索与阅读* (2015 ~ 2021)
@@ -61,14 +68,14 @@ format:
 
 3. 奖励  
 
-- 2013.11：第38届波士顿儿童语言发展研讨会，旅行奖励 300 美元  
-- 2013.04：第26届纽约城市大学句子加工会议，旅行奖励 350 美元  
+- 2013.11，第38届波士顿儿童语言发展研讨会，旅行奖励 300 美元
+- 2013.04，第26届纽约城市大学句子加工会议，旅行奖励 350 美元
 
 ## 学术兼职
 
 1. 匿名评审 \
-  *Acta Psychologica* (2025 - )\
-  *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - )\
+  *Acta Psychologica* (2025 - ) \
+  *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - ) \
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
   *Journal of Psycholinguistic Research* (2023 - )  \
   *Journal of Pragmatics* (2022 - ) \
@@ -107,18 +114,18 @@ format:
 - **Zhan, L.** (2018). Using eye movements recorded in the visual world paradigm to explore the online processing of spoken language. *Journal of Visualized Experiments, 140*, e58086. doi: 10.3791/58086 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/jove-protocol-58086.pdf)
 - Zhou, P., Ma, W., **Zhan, L.**, & Ma, H (2018). Using the visual world paradigm to study sentence comprehension in Mandarin-speaking children with autism. *Journal of Visualized Experiments, 140*, e58452. doi: 10.3791/58452 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/jove-protocol-58452.pdf)
 - **Zhan, L.**, Zhou, P., & Crain, S. (2018). Using the visual-world paradigm to explore the meaning of conditionals in natural language. *Language, Cognition and Neuroscience, 33*(8), 1049-1062. doi: 10.1080/23273798.2018.1448935 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/LangCognNeurosci2018.pdf)
-- **Zhan, L.** (2018). Scalar and ignorance inferences are both computed immediately upon encountering the sentential connective: The online processing of sentences with disjunction using the visual world paradigm. *Frontiers in Psychology, 9*. doi: 10.3389/fpsyg.2018.00061  [{{< fa regular file-pdf >}}](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00061/full)
+- **Zhan, L.** (2018). Scalar and ignorance inferences are both computed immediately upon encountering the sentential connective: The online processing of sentences with disjunction using the visual world paradigm. *Frontiers in Psychology, 9*. doi: 10.3389/fpsyg.2018.00061 [{{< fa regular file-pdf >}}](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00061/full)
 - Moscati, V., **Zhan, L.**, & Zhou, P. (2017). Children's on-line processing of epistemic modals. *Journal of Child Language, 44*(5), 1025-1040. doi: 10.1017/S0305000916000313 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/JChildLang2016.pdf)
 - **Zhan, L.**, Crain, S., & Zhou, P. (2015). The online processing of only if- and even if- conditional statements: Implications for mental models. *Journal of Cognitive Psychology, 26*(7), 367-379. doi: 10.1080/20445911.2015.1016527 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/JCognPsychol2015.pdf)
 - Zhou, P., Crain, S., & **Zhan, L.** (2014). Grammatical aspect and event recognition in children's online sentence comprehension. *Cognition, 133*(1), 262-276. doi: 10.1016/j.cognition.2014.06.018 [{{< fa regular file-pdf >}}](http://publications.likan.org/Periodicals/Cognition2014.pdf)
 - Zhou, P., Crain, S., & **Zhan, L.** (2012). Sometimes children are as good as adults: The pragmatic use of prosody in children’s on-line sentence processing. *Journal of Memory and Language, 67*(1), 149-164. doi: 10.1016/j.jml.2012.03.005 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/JMemLang2012.pdf)
 - Zhou, P., Su, Y., Crain, S., Gao, L., & **Zhan, L.** (2012). Children's use of phonological information in ambiguity resolution: A view from Mandarin Chinese. *Journal of Child Language, 39*(04), 687-730. doi: 10.1017/S0305000911000249 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/JChildLang2012.pdf)
-
+  \
 2. 会议论文集、书、或书的章节
-
+  \
 - **Zhan, L.** (2015). *The Interpretation of Conditionals in Natural Language*. Saarbrucken, Germany: Lap Lambert Academic Publishing.
 - **Zhan, L.** (2018). Magnetoencephalography (MEG) as a Technique for Imaging Brain Function and Dysfunction. In *Top 10 Contributions on Psychology* (Chapter 4, pp. 1-38). Telangana, India: Avid Science [{{< fa regular file-pdf >}}](https://publications.likan.org/BookChapters/Magnetoencephalography-MEG-as-a-Technique-for-Imaging-Brain-Function-and-Dysfunction.pdf)
-- **Zhan, L.**, Crain, S., & Zhou, P. (2013). The anticipatory e ects of focus operators: A visual- world paradigm eye-tracking study of “only if” and “even if” conditionals. In N. Goto, K. Otaki, A. Sato, & K. Takita (Eds.), *Proceedings of GLOW in Asia IX 2012*. Mie University, Japan.
+- **Zhan, L.**, Crain, S., & Zhou, P. (2013). The anticipatory effects of focus operators: A visual-world paradigm eye-tracking study of “only if” and “even if” conditionals. In N. Goto, K. Otaki, A. Sato, & K. Takita (Eds.), *Proceedings of GLOW in Asia IX 2012*. Mie University, Japan.
 
 3. 同行评审的大会报告
 
