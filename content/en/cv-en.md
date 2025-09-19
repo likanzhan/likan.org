@@ -12,16 +12,20 @@ format:
 - {{< fa globe >}} &nbsp; <https://likan.org>
 - Last update: 2015-09-17
 
+## Profile
+
+Likan Zhan, Associate Professor at the School of Psychology and Cognitive Science, Beijing Language and Culture University; Master’s supervisor in Linguistics, Psychology and Speech-Language Pathology. He holds a Ph.D. in Cognitive Science from Macquarie University, Australia, and was a visiting scholar at the Department of Mathematics, Linnaeus University, Sweden. His research interests include language comprehension, logical reasoning, quantum cognition, theory of mind, and social cognition, with applications to both typically developing children and those with developmental disorders. He has led a project funded by the National Social Science Foundation of China and has published dozens of papers in SCI and SSCI journals. For more information, please visit his personal website: https://likan.org
+
 ## Academic Appointment
 
 - 2024.03 ~ 2025.04, Visiting Scholar, \
   Department of Mathematics, \
   Linnaeus University, Växjö, Sweden
 - 2018.12 ~ Now, Associate professor, \
-  School of Communication Science,  \
+  School of Psychology and Cognitive Science, \
   Beijing Language and Culture University, Beijing, China
 - 2016.06 ~ 2018.11, Assistant professor, \
-  School of Communication Science,  \
+  School of Communication Science, \
   Beijing Language and Culture University, Beijing, China
 - 2014.09 ~ 2016.05, Assistant professor, \
   Faculty of Linguistic Sciences, \
@@ -77,7 +81,7 @@ format:
 ## Professional Activities
 
 1. Ad-hoc reviews \
-  \
+ \
   *Acta Psychologica* (2025 - )\
   *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - )\
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
@@ -85,7 +89,7 @@ format:
   *Journal of Pragmatics* (2022 - ) \
   *Cognition* (2021 - ) \
   *International Journal of Developmental Disabilities* (2021 - ) \
-  *Language, Cognition and Neuroscience* (2021 - )  \
+  *Language, Cognition and Neuroscience* (2021 - ) \
   *First Language* (2021 - )  \
   *Frontiers in Psychology* (2020 - ) \
   *Scientific Reports* (2018 - )  \
