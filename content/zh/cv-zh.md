@@ -11,7 +11,7 @@ format:
 - {{< fa university >}} &nbsp; 北京市海淀区学院路15号，北京语言大学
 - {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- 最近更新：2024年11月19日
+- 最近更新：2026年02月25日
 
 ## 个人简介
 
