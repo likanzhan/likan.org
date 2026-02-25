@@ -102,6 +102,7 @@ format:
 
 1. 杂志论文
 
+- Yang, X., & **Zhan, L.** (2026). Orthographic processing was facilitated by phonologically but not semantically similar distractors: Evidence from the visual structure judgment of Mandarin Chinese characters using the Flanker paradigm. *Cognitive Processing*. https://doi.org/10.1007/s10339-026-01336-6  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/CognProcess2026.pdf)
 - **Zhan, L.**, Lv, W., Yin, L., Guo, C., & Lu, C. (2025). Tone disruptions in Mandarin post-stroke aphasia: an fNIRS study on Broca’s area using the auditory oddball paradigm. *Neurophotonics, 13*(S1). https://doi.org/10.1117/1.NPh.13.S1.S13006 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/Neurophotonics2025.pdf)
 - Yang, X., **Zhan, L.**, & Wang, Y. (2025). Semantic projection as a method to measure individual differences in semantic scale length: insights from autism-related traits. *Scientific Reports, 15*, 40119. https://doi.org/10.1038/s41598-025-23993-x [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/Others/SciRep2025.pdf)
 - **Zhan, L.**, Wang, M. (2025). Probabilities of conditionals: The relevance effect might be confounded by the existence of boundary cases. *Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-025-02725-2 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/PsychonomicBulletinReview2025.pdf)
