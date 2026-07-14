@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhan@likan.org>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2026-02-25
+- Last update: 2026-07-14
 
 ## Profile
 
@@ -42,8 +42,10 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 ## Teaching Experience
 
-- 2025 ~ Now. *Introduction to Linguistics*, Undergraduates, 2 hours per week
+- 2025 ~ Now. *Introduction to Cognitive Neuroscience*, Undergraduates, 2 hours per week
+- 2025 ~ Now. *Lifespan Language Development*, Postgraduates, 3 hours per week
 - Archives \
+  *Introduction to Linguistics* (2025)
   *Educational Psychology* (2022 ~ 2024) \
   *Statistics with Julia* (2021 ~ 2024) \
   *R for Modeling and Visualizing Data* (2016 ~ 2021) \
