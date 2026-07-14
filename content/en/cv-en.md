@@ -8,7 +8,7 @@ format:
 ## Zhan, Likan
 
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
-- {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
+- {{< fa envelope >}} &nbsp; <zhan@likan.org>
 - {{< fa globe >}} &nbsp; <https://likan.org>
 - Last update: 2026-02-25
 
@@ -80,8 +80,13 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 ## Professional Activities
 
-1. Ad-hoc reviews \
+1. Editorial board
+
+*Journal of Psycholinguistic Research* (2026-)
+
+2. Ad-hoc reviews \
  \
+   *Humanities and Social Sciences Communications* (2026-) \
   *Acta Psychologica* (2025 - )\
   *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - )\
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
@@ -97,14 +102,14 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
   *Language Teaching and Linguistic Studies* (In Chinese, 2016 - ) \
   *SAGE Open* (2016 - )
 
-2. Clinical licenses
+3. Clinical licenses
 
 - Licensed Examiner of Wechsler Preschool and Primary Scale of Intelligence 4th Edition (WPPSI-VI) Chinese Version.
 - Licensed Examiner of Adaptive Behavior Assessment System 2nd Edition (ABAS-II) Chinese Version.
 
-3. Frontiers in Psychology, Review Editor in Language Sciences (2020 - )
+4. Frontiers in Psychology, Review Editor in Language Sciences (2020 - )
 
-4. Organization of international meetings
+5. Organization of international meetings
 
 - Academic Advisory Committee, The 24th annual conference of the International Association of Chinese Linguistics ([IACL-24](http://iacl24.blcu.edu.cn)), Beijing Language and Culture University, Beijing, China.
 
@@ -112,6 +117,8 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 1. Periodicals
 
+- Khrennikov, A., Aspalter, C., & **Zhan, L.** (Accepted). Quantum-like Architecture of the Social Atom: Mental Marker Coherence and the Triple-Resonance Mechanism of Cognitive Activation. *Frontiers in Human Neuroscience*
+- Yang, X., & **Zhan, L.** (Accepted). Boundary-constrained chunking shapes local-global positional representations in working memory. *Memory*
 - Yang, X., & **Zhan, L.** (2026). Orthographic processing was facilitated by phonologically but not semantically similar distractors: Evidence from the visual structure judgment of Mandarin Chinese characters using the Flanker paradigm. *Cognitive Processing*. https://doi.org/10.1007/s10339-026-01336-6  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/CognProcess2026.pdf)
 - **Zhan, L.**, Lv, W., Yin, L., Guo, C., & Lu, C. (2025). Tone disruptions in Mandarin post-stroke aphasia: an fNIRS study on Broca’s area using the auditory oddball paradigm. *Neurophotonics, 13*(S1). https://doi.org/10.1117/1.NPh.13.S1.S13006 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/Neurophotonics2025.pdf)
 - Yang, X., **Zhan, L.**, & Wang, Y. (2025). Semantic projection as a method to measure individual differences in semantic scale length: insights from autism-related traits. *Scientific Reports, 15*, 40119. https://doi.org/10.1038/s41598-025-23993-x [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/Others/SciRep2025.pdf)

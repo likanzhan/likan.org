@@ -9,15 +9,15 @@ format:
 ## 战立侃
 
 - {{< fa university >}} &nbsp; 北京市海淀区学院路15号，北京语言大学
-- {{< fa envelope >}} &nbsp; <zhanlikan@hotmail.com>
+- {{< fa envelope >}} &nbsp; <zhan@likan.org>
 - {{< fa globe >}} &nbsp; <https://likan.org>
 - 最近更新：2026年02月25日
 
 ## 个人简介
 
-战立侃，北京语言大学副教授，基础心理学、语言病理学硕士生导师。
-澳大利亚麦考瑞大学认知科学博士，瑞典林奈大学数学系访问学者。
-主要研究兴趣包括语言理解、逻辑推理、量子认知、心理理论和社会性认知等，及相关课题在典型和发展障碍儿童中的应用。
+战立侃，北京语言大学副教授。
+澳大利亚麦考瑞大学认知科学博士，瑞典林奈大学数学系访问学者。*Journal of Psycholinguistic Research* 编委会成员。
+主要研究兴趣包括语言理解、逻辑推理、量子认知等，及相关课题在典型和发展障碍儿童中的应用。
 主持国家社科基金一项，发表SCI和SSCI论文数十篇。
 
 ## 职业经历
@@ -73,7 +73,11 @@ format:
 
 ## 学术兼职
 
-1. 匿名评审 \
+1. 编委会成员 \
+  *Journal of Psycholinguistic Research* (2026 - )  \
+
+2. 匿名评审 \
+  *Humanities and Social Sciences Communications* (2026-) \
   *Acta Psychologica* (2025 - ) \
   *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - ) \
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
@@ -89,12 +93,12 @@ format:
   *语言教学与研究* (2016 -) \
   *SAGE Open* (2016 - )
 
-2. Frontiers in Psychology, *Review Editor* in Language Sciences (2020 - )
+3. Frontiers in Psychology, *Review Editor* in Language Sciences (2020 - )
 
-3. 会议组织
+4. 会议组织
 - 国际中国语言学会第24届年会，会务组和咨询委员会委员，2016年7月17日-19日，北京语言大学
 
-4. 执业资格
+5. 执业资格
 - 韦氏婴幼儿智力量表第四版（WPPSI-VI）中文版主试资格
 - 适应性行为评定量表第二版（ABAS-II）中文版主试资格
 
@@ -102,6 +106,8 @@ format:
 
 1. 杂志论文
 
+- Khrennikov, A., Aspalter, C., & **Zhan, L.** (Accepted). Quantum-like Architecture of the Social Atom: Mental Marker Coherence and the Triple-Resonance Mechanism of Cognitive Activation. *Frontiers in Human Neuroscience*
+- Yang, X., & **Zhan, L.** (Accepted). Boundary-constrained chunking shapes local-global positional representations in working memory. *Memory*
 - Yang, X., & **Zhan, L.** (2026). Orthographic processing was facilitated by phonologically but not semantically similar distractors: Evidence from the visual structure judgment of Mandarin Chinese characters using the Flanker paradigm. *Cognitive Processing*. https://doi.org/10.1007/s10339-026-01336-6  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/CognProcess2026.pdf)
 - **Zhan, L.**, Lv, W., Yin, L., Guo, C., & Lu, C. (2025). Tone disruptions in Mandarin post-stroke aphasia: an fNIRS study on Broca’s area using the auditory oddball paradigm. *Neurophotonics, 13*(S1). https://doi.org/10.1117/1.NPh.13.S1.S13006 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/Neurophotonics2025.pdf)
 - Yang, X., **Zhan, L.**, & Wang, Y. (2025). Semantic projection as a method to measure individual differences in semantic scale length: insights from autism-related traits. *Scientific Reports, 15*, 40119. https://doi.org/10.1038/s41598-025-23993-x [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/Others/SciRep2025.pdf)
