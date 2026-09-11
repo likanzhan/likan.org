@@ -11,7 +11,7 @@ format:
 - {{< fa university >}} &nbsp; 北京市海淀区学院路15号，北京语言大学
 - {{< fa envelope >}} &nbsp; <zhan@likan.org>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- 最近更新：2026年07月14日
+- 最近更新：2026年09月11日
 
 ## 个人简介
 
@@ -23,7 +23,8 @@ format:
 
 ## 职业经历
 
-- 2018.12 ~ 现在，副教授，北京语言大学心理与认知科学学院
+- 2026.09 ~ 现在，副教授，北京语言大学语言科学与资源学院
+- 2018.12 ~ 2026.08，副教授，北京语言大学心理与认知科学学院
 - 2024.03 ~ 2025.04，访问学者，瑞典林奈大学数学系
 - 2016.06 ~ 2018.11，助理研究员，北京语言大学语言康复学院
 - 2014.10 ~ 2016.05，助理研究员，北京语言大学语言科学院
@@ -102,15 +103,15 @@ format:
 - 国际中国语言学会第24届年会，会务组和咨询委员会委员，2016年7月17日-19日，北京语言大学
 
 5. 执业资格
-- 韦氏婴幼儿智力量表第四版（WPPSI-VI）中文版主试资格
+- 韦氏婴幼儿智力量表第四版（WPPSI-IV）中文版主试资格
 - 适应性行为评定量表第二版（ABAS-II）中文版主试资格
 
 ## 出版物
 
 1. 杂志论文
 
-- Khrennikov, A., Aspalter, C., & **Zhan, L.** (Accepted). Quantum-like Architecture of the Social Atom: Mental Marker Coherence and the Triple-Resonance Mechanism of Cognitive Activation. *Frontiers in Human Neuroscience*
-- Yang, X., Wang, Y., & **Zhan, L.** (Accepted). Boundary-constrained chunking shapes local-global positional representations in working memory. *Memory*
+- Khrennikov, A., Aspalter, C., & **Zhan, L.** (2026). Quantum-like Architecture of the Social Atom: Mental Marker Coherence and the Triple-Resonance Mechanism of Cognitive Activation. *Frontiers in Human Neuroscience, 20*, 1882642. https://doi.org/10.3389/fnhum.2026.1882642 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/Others/fnhum-20-1882642.pdf)
+- Yang, X., Wang, Y., & **Zhan, L.** (2026). Boundary-constrained chunking shapes local-global positional representations in working memory. *Memory, 34*(9), 974-985. https://doi.org/10.1080/09658211.2026.2712599  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/Memory2026.pdf)
 - Yang, X., & **Zhan, L.** (2026). Orthographic processing was facilitated by phonologically but not semantically similar distractors: Evidence from the visual structure judgment of Mandarin Chinese characters using the Flanker paradigm. *Cognitive Processing*. https://doi.org/10.1007/s10339-026-01336-6  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/CognProcess2026.pdf)
 - **Zhan, L.**, Lv, W., Yin, L., Guo, C., & Lu, C. (2025). Tone disruptions in Mandarin post-stroke aphasia: an fNIRS study on Broca’s area using the auditory oddball paradigm. *Neurophotonics, 13*(S1). https://doi.org/10.1117/1.NPh.13.S1.S13006 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/Neurophotonics2025.pdf)
 - Yang, X., **Zhan, L.**, & Wang, Y. (2025). Semantic projection as a method to measure individual differences in semantic scale length: insights from autism-related traits. *Scientific Reports, 15*, 40119. https://doi.org/10.1038/s41598-025-23993-x [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/Others/SciRep2025.pdf)

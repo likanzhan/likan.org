@@ -10,7 +10,7 @@ format:
 - {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhan@likan.org>
 - {{< fa globe >}} &nbsp; <https://likan.org>
-- Last update: 2026-07-14
+- Last update: 2026-09-11
 
 ## Profile
 
@@ -18,10 +18,13 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 ## Academic Appointment
 
+- 2026.09 ~ Now, Associate professor, \
+  School of Linguistics and Language Resources, \
+  Beijing Language and Culture University, Beijing, China
 - 2024.03 ~ 2025.04, Visiting Scholar, \
   Department of Mathematics, \
   Linnaeus University, Växjö, Sweden
-- 2018.12 ~ Now, Associate professor, \
+- 2018.12 ~ 2026.08, Associate professor, \
   School of Psychology and Cognitive Science, \
   Beijing Language and Culture University, Beijing, China
 - 2016.06 ~ 2018.11, Assistant professor, \
@@ -106,7 +109,7 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 3. Clinical licenses
 
-- Licensed Examiner of Wechsler Preschool and Primary Scale of Intelligence 4th Edition (WPPSI-VI) Chinese Version.
+- Licensed Examiner of Wechsler Preschool and Primary Scale of Intelligence 4th Edition (WPPSI-IV) Chinese Version.
 - Licensed Examiner of Adaptive Behavior Assessment System 2nd Edition (ABAS-II) Chinese Version.
 
 4. Frontiers in Psychology, Review Editor in Language Sciences (2020 - )
@@ -119,8 +122,8 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 1. Periodicals
 
-- Khrennikov, A., Aspalter, C., & **Zhan, L.** (Accepted). Quantum-like Architecture of the Social Atom: Mental Marker Coherence and the Triple-Resonance Mechanism of Cognitive Activation. *Frontiers in Human Neuroscience*
-- Yang, X., Wang, Y., & **Zhan, L.** (Accepted). Boundary-constrained chunking shapes local-global positional representations in working memory. *Memory*
+- Khrennikov, A., Aspalter, C., & **Zhan, L.** (2026). Quantum-like Architecture of the Social Atom: Mental Marker Coherence and the Triple-Resonance Mechanism of Cognitive Activation. *Frontiers in Human Neuroscience, 20*, 1882642. https://doi.org/10.3389/fnhum.2026.1882642 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/Others/fnhum-20-1882642.pdf)
+- Yang, X., Wang, Y., & **Zhan, L.** (2026). Boundary-constrained chunking shapes local-global positional representations in working memory. *Memory, 34*(9), 974-985. https://doi.org/10.1080/09658211.2026.2712599  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/Memory2026.pdf)
 - Yang, X., & **Zhan, L.** (2026). Orthographic processing was facilitated by phonologically but not semantically similar distractors: Evidence from the visual structure judgment of Mandarin Chinese characters using the Flanker paradigm. *Cognitive Processing*. https://doi.org/10.1007/s10339-026-01336-6  [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/CognProcess2026.pdf)
 - **Zhan, L.**, Lv, W., Yin, L., Guo, C., & Lu, C. (2025). Tone disruptions in Mandarin post-stroke aphasia: an fNIRS study on Broca’s area using the auditory oddball paradigm. *Neurophotonics, 13*(S1). https://doi.org/10.1117/1.NPh.13.S1.S13006 [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/FirstAuthor/Neurophotonics2025.pdf)
 - Yang, X., **Zhan, L.**, & Wang, Y. (2025). Semantic projection as a method to measure individual differences in semantic scale length: insights from autism-related traits. *Scientific Reports, 15*, 40119. https://doi.org/10.1038/s41598-025-23993-x [{{< fa regular file-pdf >}}](https://publications.likan.org/Periodicals/Others/SciRep2025.pdf)
