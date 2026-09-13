@@ -21,7 +21,7 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 - 2026.09 ~ Now, Associate professor, \
   School of Linguistics and Language Resources, \
   Beijing Language and Culture University, Beijing, China
-- 2024.03 ~ 2025.04, Visiting Scholar (Host Supervisor: Andrei Khrennikov), \
+- 2024.03 ~ 2025.04, Visiting Scholar (Academic Host: Professor Andrei Khrennikov), \
   Department of Mathematics, \
   Linnaeus University, Växjö, Sweden
 - 2018.12 ~ 2026.08, Associate professor, \
@@ -36,7 +36,7 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 ## Education
 
-- 2010.10 ~ 2014.09, Ph.D. Cognitive Science (Supervisor: Stephen Crain), \
+- 2010.10 ~ 2014.09, Ph.D. Cognitive Science (Supervisor: Professor Stephen Crain), \
   Macquarie University, Sydney, Australia
 - 2007.09 ~ 2010.07, M.E. Cognitive Psychology, \
   Beijing Language and Culture University, Beijing, China
@@ -45,17 +45,17 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 ## Teaching Experience
 
-- 2025 ~ Now. *Introduction to Cognitive Neuroscience*, Undergraduates, 2 hours per week
-- 2025 ~ Now. *Lifespan Language Development*, Postgraduates, 3 hours per week
+- *Scientific Thinking and Critical Reasoning*, Undergraduates, 3 hours per week
 - Archives \
-  *Introduction to Linguistics* (2025)
+  *Lifespan Language Development* (2025) \
+  *Introduction to Linguistics* (2025) \
   *Educational Psychology* (2022 ~ 2024) \
   *Statistics with Julia* (2021 ~ 2024) \
   *R for Modeling and Visualizing Data* (2016 ~ 2021) \
   *Experimental Psychology* (2019 ~ 2021) \
   *Introduction to Neurolinguistics* (2019 ~ 2021) \
   *Statistics for the Behavioral Sciences* (2017-2024) \
-  *Introduction to Cognitive Neuroscience* (2015 ~ 2020) \
+  *Introduction to Cognitive Neuroscience* (2015 ~ 2020, 2025) \
   *Foundations of Scientific Research* (2015 ~ 2021)
 
 ## Grants, Projects, and Awards
