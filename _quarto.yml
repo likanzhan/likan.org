@@ -23,8 +23,8 @@ website:
         text: 关于
       - file: content/zh/cv-zh.md
         text: 简历
-      - url: http://sapere-aude.group
-        text: 小组
+      # - url: http://sapere-aude.group
+      #   text: 小组
   page-footer: 
     left: "Copyright 2024 - , Likan Zhan" 
     right: 
