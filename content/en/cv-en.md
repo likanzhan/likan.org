@@ -21,7 +21,8 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 - 2026.09 ~ Now, Associate professor, \
   School of Linguistics and Language Resources, \
   Beijing Language and Culture University, Beijing, China
-- 2024.03 ~ 2025.04, Visiting Scholar (Academic Host: Professor Andrei Khrennikov), \
+- 2024.03 ~ 2025.04, Visiting Scholar \
+  (Academic Host: Professor Andrei Khrennikov), \
   Department of Mathematics, \
   Linnaeus University, Växjö, Sweden
 - 2018.12 ~ 2026.08, Associate professor, \
@@ -36,7 +37,8 @@ Likan Zhan, Associate Professor at the School of Psychology and Cognitive Scienc
 
 ## Education
 
-- 2010.10 ~ 2014.09, Ph.D. Cognitive Science (Supervisor: Professor Stephen Crain), \
+- 2010.10 ~ 2014.09, Ph.D. Cognitive Science \
+  (Supervisor: Professor Stephen Crain), \
   Macquarie University, Sydney, Australia
 - 2007.09 ~ 2010.07, M.E. Cognitive Psychology, \
   Beijing Language and Culture University, Beijing, China
