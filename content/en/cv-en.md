@@ -7,14 +7,16 @@ format:
 
 ## Zhan, Likan
 
-- {{< fa university >}} &nbsp; Room 1257, New Comprehensive Building, Beijing Language and Culture University, No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
+- {{< fa university >}} &nbsp; Room 1257, New Comprehensive Building, \
+  Beijing Language and Culture University, \
+  No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhan@likan.org>
 - {{< fa globe >}} &nbsp; <https://likan.org>
 - Last update: 2026-09-11
 
 ## Profile
 
-Likan Zhan, Associate Professor at the School of Psychology and Cognitive Science, Beijing Language and Culture University; Master’s supervisor in Linguistics, Psychology and Speech-Language Pathology. He holds a Ph.D. in Cognitive Science from Macquarie University, Australia, and was a visiting scholar at the Department of Mathematics, Linnaeus University, Sweden. His research interests include language comprehension, logical reasoning, quantum cognition, theory of mind, and social cognition, with applications to both typically developing children and those with developmental disorders. He has led a project funded by the National Social Science Foundation of China and has published dozens of papers in SCI and SSCI journals. For more information, please visit his personal website: https://likan.org
+Likan Zhan, Associate Professor at the School of Linguistics and Language Resources, Beijing Language and Culture University; Master’s supervisor in Linguistics, Psychology and Speech-Language Pathology. He holds a Ph.D. in Cognitive Science from Macquarie University, Australia, and was a visiting scholar at the Department of Mathematics, Linnaeus University, Sweden. His research interests include language comprehension, logical reasoning, quantum cognition, theory of mind, and social cognition, with applications to both typically developing children and those with developmental disorders. He has led a project funded by the National Social Science Foundation of China and has published dozens of papers in SCI and SSCI journals. For more information, please visit his personal website: https://likan.org
 
 ## Academic Appointment
 
