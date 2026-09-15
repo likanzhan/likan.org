@@ -7,7 +7,7 @@ format:
 
 ## Zhan, Likan
 
-- {{< fa university >}} &nbsp; No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
+- {{< fa university >}} &nbsp; Room 1257, New Comprehensive Building, Beijing Language and Culture University, No. 15, Xueyuan Rd., Haidian Dist., Beijing 100083, P. R. China
 - {{< fa envelope >}} &nbsp; <zhan@likan.org>
 - {{< fa globe >}} &nbsp; <https://likan.org>
 - Last update: 2026-09-11
