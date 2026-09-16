@@ -8,9 +8,9 @@ format:
 
 ## 战立侃
 
-- {{< fa university >}} &nbsp; 新综合楼 1257 室，北京市海淀区学院路15号，北京语言大学
-- {{< fa envelope >}} &nbsp; <zhan@likan.org>
-- {{< fa globe >}} &nbsp; <https://likan.org>
+- {{< fa university >}} &nbsp;新综合楼 1257 室，北京市海淀区学院路15号，北京语言大学
+- {{< fa envelope >}} &nbsp;<zhan@likan.org>
+- {{< fa globe >}} &nbsp;<https://likan.org>
 - 最近更新：2026年09月11日
 
 ## 个人简介
