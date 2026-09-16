@@ -16,7 +16,7 @@ format:
 
 ## Profile
 
-::: {style="margin: 0px 30px 0px 30px;"} 
+:::{style="margin: 0px 30px 0px 30px;"}
 Likan Zhan, Associate Professor at the School of Linguistics and Language Resources, Beijing Language and Culture University; Master’s supervisor in Linguistics and Applied Linguistics, Psychology. He holds a Ph.D. in Cognitive Science from Macquarie University, Australia, and was a visiting scholar at the Department of Mathematics, Linnaeus University, Sweden. His research interests include language comprehension, logical reasoning, quantum cognition, theory of mind, and social cognition, with applications to both typically developing children and those with developmental disorders. He has led a project funded by the National Social Science Foundation of China and has published dozens of papers in SCI and SSCI journals. For more information, please visit his personal website: https://likan.org
 :::
 
@@ -26,7 +26,7 @@ Likan Zhan, Associate Professor at the School of Linguistics and Language Resour
   School of Linguistics and Language Resources, \
   Beijing Language and Culture University, Beijing, China
 - 2024.03 ~ 2025.04, Visiting Scholar \
-  (Academic Host: Professor Andrei Khrennikov), \
+  (Academic Host: Professor [Andrei Khrennikov](https://www.lnu.se/en/staff/andrei.khrennikov)), \
   Department of Mathematics, \
   Linnaeus University, Växjö, Sweden
 - 2018.12 ~ 2026.08, Associate professor, \
@@ -42,7 +42,7 @@ Likan Zhan, Associate Professor at the School of Linguistics and Language Resour
 ## Education
 
 - 2010.10 ~ 2014.09, Ph.D. Cognitive Science \
-  (Supervisor: Professor Stephen Crain), \
+  (Supervisor: Professor [Stephen Crain](https://researchers.mq.edu.au/en/persons/stephen-crain)), \
   Macquarie University, Sydney, Australia
 - 2007.09 ~ 2010.07, M.E. Cognitive Psychology, \
   Beijing Language and Culture University, Beijing, China
