@@ -91,13 +91,11 @@ Likan Zhan, Associate Professor at the School of Linguistics and Language Resour
 
 ## Professional Activities
 
-1. Editorial board
-
-*Journal of Psycholinguistic Research* (2026-)
+1. Editorial board \
+  *Journal of Psycholinguistic Research* (2026-)
 
 2. Ad-hoc reviews \
- \
-   *Humanities and Social Sciences Communications* (2026-) \
+  *Humanities and Social Sciences Communications* (2026-) \
   *Acta Psychologica* (2025 - )\
   *Architectures and Mechanisms for Language Processing (AMLaP)* (2024 - )\
   *Annual Conference on Human Sentence Processing (HSP)* (2024 - ) \
